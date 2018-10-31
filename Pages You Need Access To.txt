@@ -1,0 +1,6 @@
+You will need to make sure you can access the following:
+
+1. Your Facebook business page (the ABOUT section)
+2. Your Facebook business page SETTINGS > MESSENGER PLATFORM > WHITELIST DOMAINS
+3. https://developers.facebook.com
+4. Your website's HTML section
